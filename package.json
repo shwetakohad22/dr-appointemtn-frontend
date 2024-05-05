@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
- "proxy": "https://dr-appointment-backend-1.onrender.com"
+  "proxy": "https://dr-appointment-backend-1.onrender.com",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
